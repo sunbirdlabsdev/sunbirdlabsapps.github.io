@@ -1,0 +1,23 @@
+<div class="features">
+
+    {% for feature in site.features %}
+
+    {% if feature.title %}
+    <div class="feature">
+        <div>
+            <img class="featureIcon" src="{{ feature.icon_path }}" />
+        </div>
+        <div class="featureText">
+            <h3>
+                {{ feature.title }}
+            </h3>
+            <p>
+                {{ feature.description }}
+            </p>
+        </div>
+    </div>
+    {% endif %}
+
+    {% endfor %}
+
+</div>
