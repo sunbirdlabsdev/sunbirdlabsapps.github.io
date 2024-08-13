@@ -1,5 +1,5 @@
 #page title
-page_title                                : UpSmith - Atlassian App Vendor                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Sunbird Labs - Atlassian App Vendor                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -20,11 +20,11 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
+your_name                                 : Emil Baehr
+your_link                                 : https://emilbaehr.com
+your_city                                 : Copenhagen
 email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
+facebook_username                         :
 instagram_username                        : ebaehr
 twitter_username                          : ebaehr
 github_username                           : emilbaehr
@@ -36,17 +36,9 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Salesforce for Confluence
-    description                           : Integrate Salesforce data into Confluence pages to streamline account plan & collaboration
+  - title                                 : Google Tasks for Jira
+    description                           : Effortlessly manage Google Tasks within Jira. Keep all your Google tasks synchronized and in one place.
     icon_path                             : assets/upsmith-salesforce.png
-
-  - title                                 : Freshsales for JSM
-    description                           : Integrate Freshsales and JSM to personalize customer experience
-    icon_path                             : assets/upsmith-freshsales.png
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 # Theme Settings
