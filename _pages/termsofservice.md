@@ -26,9 +26,9 @@ For the purposes of this Terms of Service (TOS) License Agreement:
 
 - **Agreement** means this End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application.
 - **Application** means the software program or SAAS Software provided by the Company downloaded or installed by You
-- **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to UpSmith Sdn. Bhd.
+- **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to Sunbird Labs Sdn. Bhd.
 - **Content** refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
-- **Country** refers to: Bulgaria
+- **Country** refers to: Singapore
 - **Device** means any device that can access the Application such as a computer, a cellphone or a digital tablet.
 - **Third-Party Services** means any services or content (including data, information, applications and other products services) provided by a third-party that may be displayed, included or made available by the Application.
 - **You** means the individual accessing or using the Application or the company, or other legal entity on behalf of which such individual is accessing or using the Application, as applicable.
@@ -115,11 +115,7 @@ The Software and all copies thereof are protected by copyright and other intelle
 
 # Privacy Policy
 
-To review the privacy policy that apply to visitors of our websites and the use of our Applications, please see our [Privacy Policy](https://upsmith.app/privacypolicy/).
-
-# Cookie Policy
-
-To review the cookie policy that apply to visitors of our websites and the use of our Applications, please see our [Cookie Policy](https://upsmith.app/cookiepolicy/).
+To review the privacy policy that apply to visitors of our websites and the use of our Applications, please see our [Privacy Policy](https://sunbirdlabs.app/privacypolicy/).
 
 # No Warranty
 
@@ -155,4 +151,4 @@ You may be subject to additional terms and conditions that apply when You use or
 
 If you have any questions about this Agreement, You can contact Us:
 
-- By email: [support@upsmith.app](mailto:support@upsmith.app)
+- By email: [support@sunbirdlabs.app](mailto:support@sunbirdlabs.app)

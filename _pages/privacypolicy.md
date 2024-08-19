@@ -13,11 +13,11 @@ Nov 8, 2023
 **Last updated**  
 Nov 8, 2023
 
-In this Privacy Policy *we*, *us* or *our* means *UpSmith Sdn. Bhd.*
+In this Privacy Policy *we*, *us* or *our* means *Sunbird Labs Sdn. Bhd.*
 When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and give you the opportunity to control it.
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can manage, and delete your information.
-We build services that help companies to work more efficiently and save time in their day-to-day processes. Our services include Atlassian apps like Zendesk Sell for JSM that are embedded into Atlassian products.
-If you have any questions about this Privacy Policy, you can [contact us](mailto:support@upsmith.app).
+We build services that help companies to work more efficiently and save time in their day-to-day processes. Our services include Atlassian apps like Google Task for Jira that are embedded into Atlassian products.
+If you have any questions about this Privacy Policy, you can [contact us](mailto:support@sunbirdlabs.app).
 
 
 ## Information we collect
@@ -87,8 +87,7 @@ We use the following subprocessors:
 
 | Third Party | Purpose |
 | :--- | :--- |
-| Atlassian Pty Ltd | Issue management |
-| Amazon Web Services, Inc. | Data hosting |
+| Atlassian Pty Ltd | Issue management / App hosting |
 
 By providing us with personal information, you consent to the disclosure of your personal information to third parties and, if you are a European Union (EU) citizen, to third parties that reside outside the EU.
 
